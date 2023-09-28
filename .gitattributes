@@ -1,0 +1,2 @@
+# Google Apps Script (.gs) ファイルをGoogle Apps Script言語でハイライト表示
+*.gs linguist-language=javascript
